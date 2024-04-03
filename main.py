@@ -1,3 +1,5 @@
+#Python version >=3.4 & <=3.9
+#Import required libraries
 import cvzone
 import cv2  
 from cvzone.SelfiSegmentationModule import SelfiSegmentation  
